@@ -1,0 +1,19 @@
+{
+  "name": "maps16k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "fs-extra": "^1.0.0",
+    "node-fetch": "^1.6.3",
+    "promise": "^7.1.1",
+    "request": "^2.79.0",
+    "whatwg-fetch": "^2.0.1"
+  }
+}
